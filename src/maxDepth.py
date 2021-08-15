@@ -17,4 +17,4 @@ def maxDepth(self, root):
                 queue.append(cur_root.right)
     return depth
 
-print(maxDepth([3,9,20,None, None,15,7]))
+print(maxDepth([3,9,20,None, None, 25,7]))
